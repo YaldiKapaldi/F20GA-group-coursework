@@ -6,3 +6,6 @@
 <img width="1911" height="999" alt="image" src="https://github.com/user-attachments/assets/9188464d-a4f0-49a4-abea-1936b633d14f" />
 <p>create the unconnected bases</p>
 <img width="1857" height="1033" alt="image" src="https://github.com/user-attachments/assets/3cbd74b1-19bd-4249-9693-12228bf95f5e" />
+<p>add the supports connecting the bases</p>
+<img width="1607" height="1021" alt="image" src="https://github.com/user-attachments/assets/e311e75b-5b04-4602-b674-91f6abed2558" />
+

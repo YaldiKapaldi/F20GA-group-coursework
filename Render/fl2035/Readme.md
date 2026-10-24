@@ -14,6 +14,12 @@
 <img width="914" height="384" alt="image" src="https://github.com/user-attachments/assets/98e2a482-a0b9-4e86-bb9b-47d022ac85a1" />
 <p>unrendered object currently looks like this</p>
 <img width="795" height="746" alt="image" src="https://github.com/user-attachments/assets/f81058b5-dedf-44cf-b3e3-cd35bad51363" />
+<p>removed the normal node from the shader of the glass as it was causing the glass to reflect black</p>
+<img width="587" height="296" alt="image" src="https://github.com/user-attachments/assets/d5e5de3d-7098-4599-b45c-79b35b3c6abf" />
+<p>created a scene with a floor, walls,three lights and a camera, also created dice and a chess piece knight to fill space and show reflections on the hourglass</p>
+<img width="1907" height="985" alt="image" src="https://github.com/user-attachments/assets/c2fcbc95-583b-474b-b29d-2494b39fe9bd" />
+
+
 
 
 
